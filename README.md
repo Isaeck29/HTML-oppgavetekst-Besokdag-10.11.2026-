@@ -23,7 +23,7 @@ Oppgave for nettsidelaging på besøksdagen på Informasjonsteknologi og Mediepr
 !
 ```
 og så klikk **`enter`** da skal det se slik ut:
-\
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -37,8 +37,6 @@ og så klikk **`enter`** da skal det se slik ut:
 </body>
 </html>
 ```
-
-\
 
 ## Oppgave
 
