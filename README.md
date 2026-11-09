@@ -41,4 +41,4 @@ og så klikk **`enter`** da skal det se slik ut:
 ## Oppgave
 
 `1.1`\
-Bruk `hjelpeliste.md` og finn ut hvordan du viser tekst i HTML. [Trenger du hjelp?](https://github.com/Isaeck29/HTML-oppgavetekst-Besokdag-10.11.2026-/blob/main/README.md)
+Bruk `hjelpeliste.md` og finn ut hvordan du viser tekst i HTML. 
