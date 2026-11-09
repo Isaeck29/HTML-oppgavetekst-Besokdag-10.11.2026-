@@ -25,7 +25,7 @@
 <p>
 ```
 
-<p>Paragraf</p>
+<p>Paragraph</p>
 <br>
 
 ```html
@@ -57,7 +57,7 @@
 
 ```JavaScript
 document. // is a selector for finding elements in the html file
-getElementById('') // added begind document to select a id for exaple <h1 id="text">hei</h1>
+getElementById('') // added behind document to select a id for exaple <h1 id="text">hei</h1>
 .innerHTML = '' // used to change the html text shown
 ```
 
@@ -66,15 +66,15 @@ Variabler
 ```JavaScript
 const name = '';
 const name = 0;
-// const is a consistan value of text or number
+// const is a consistant value of text or number
 
 let name = '';
 let name = 0;
 // let is a flexible value of text or number
 
-name += 1; // if name's let is a number this will add one | += is add to value
-name == 'value'; // dosent need to be text but sets a value | == sets to value or number
-name -= 1; // if name's let is a number this will remove one | -= is remove to value
+name += 1; // if the variable is a "let", and it is a number this will add one | += is add to value
+name == 'value'; // doesn't need to be text but sets a value | == sets to value or number
+name -= 1; // if the variable is a "let", and it is a number this will remove one | -= is remove to value
 ```
 
 example
@@ -85,5 +85,5 @@ example
 <p id="e2">Hallo</p>
 <button onclick="document.getElementById('e2').innerHTML = 'Hei';">
 </body>
-<!--This whill change the "hallo" text to "Hei" when you press the button-->
+<!--This will change the "hallo" text to "Hei" when you press the button-->
 ```
