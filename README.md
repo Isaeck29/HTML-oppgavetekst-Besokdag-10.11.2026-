@@ -37,12 +37,9 @@ og så klikk **`enter`** da skal det se slik ut:
 </body>
 </html>
 ```
+\
+\
+## Oppgave
 
-
-
-
-
-
-
-
-
+`1.1`
+bruk `hjelpeliste.md` og fin ut hvordan du hviser text
