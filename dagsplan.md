@@ -1,15 +1,15 @@
-# dags plan
+# Dagsplan
 
 
-`8:15` Time start og klargjøring
-`8:30` elevene kommer
-`9:00`
-`10:45`  - `11:15` Mat
-`13:00`
+`8:15` til `8:30` Time-start og klargjøring \
+`8:30` til `9:00` Elevene kommer \
+`9:00` til `10:45` 12 elever inn her (3 på hver gruppe, ca. 20 min per stasjon) \
+`10:45` til `11:15` Spisepause \
+`11:15` til `13:00` De 12 andre elevene inn her (3 på hver gruppe, ca. 20 min per stasjon) 
 
 
-fra `8:30` til `9:00` forkaling og velcomen \
-fra `9:00` til `10:45` og `11:15` til `13:00`
-ca halv in bytte grupe
+Fra `8:30` til `9:00` forklaring og velkommen \
+Fra `9:00` til `10:45` og `11:15` til `13:00` er det grupper på 12 stk inn her (Rom 2435)
 
-isak fix resten
+
+
