@@ -41,4 +41,4 @@ og så klikk **`enter`** da skal det se slik ut:
 ## Oppgave
 
 `1.1`\
-bruk `hjelpeliste.md` og fin ut hvordan du hviser text
+Bruk `hjelpeliste.md` og finn ut hvordan du viser tekst i HTML. 
