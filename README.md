@@ -38,7 +38,6 @@ og så klikk **`enter`** da skal det se slik ut:
 </html>
 ```
 \
-\
 ## Oppgave
 
 `1.1`\
