@@ -37,7 +37,7 @@
 <br>
 
 ```html
-<butotn>
+<button>
 ```
 
 <button>Button</button>
