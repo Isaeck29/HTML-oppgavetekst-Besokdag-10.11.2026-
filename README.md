@@ -9,11 +9,11 @@ Oppgave for nettsidelaging på besøksdagen på Informasjonsteknologi og Mediepr
 > Lag en folder med ditt navn i mappen `Mappe for elevnettsider besøksdag 10.11.2026`. I den mappen du har laget, skal du igjen lage 3 filer: `index.html`, `style.css` og `script.js`.
 
 '2.' **HTML-struktur:**
- I `index.html` skriv: 
+> I `index.html` skriv: 
 ```html
 !
 ```
-og så klikk `**enter**`
+og så klikk **`enter`**
 
 
 
