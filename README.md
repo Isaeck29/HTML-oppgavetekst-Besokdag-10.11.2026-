@@ -22,7 +22,23 @@ Oppgave for nettsidelaging på besøksdagen på Informasjonsteknologi og Mediepr
 ```html
 !
 ```
-og så klikk **`enter`**
+og så klikk **`enter`** da skal det se slik ut:
+\
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+
+
 
 
 
