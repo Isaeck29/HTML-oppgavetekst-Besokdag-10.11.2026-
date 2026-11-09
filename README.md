@@ -4,13 +4,13 @@ Oppgave for nettsidelaging på besøksdagen på Informasjonsteknologi og Mediepr
 # TRENGER HJELP!!!
 ## Har du problemer underveis? Still spørsmål hvis du har noe du lurer på, så finner vi ut av det sammen!
 
-## startup
+## Startup
 `1.` **Folder layout:**
 > Lag en folder med ditt navn i mappen `Mappe for elevnettsider besøksdag 10.11.2026`. I den mappen du har laget, skal du igjen lage 3 filer: `index.html`, `style.css` og `script.js`.
 > 
 > Folder strukturen din skal se slik ut:
 ```markdown
-{dit navn}
+{ditt navn}
   │
   ┝━━ [index.html]
   ┝━━ [style.css]
