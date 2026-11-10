@@ -163,6 +163,10 @@ Disse formlene viser hvordan klikkeren fungerer:
 | 4 | 4 |
 | 5 | 5 |
 
+
 ## Kort oppsummert
 
 HTML lager innholdet på nettsiden, mens JavaScript gjør at knappen fungerer. Variabelen holder styr på antall klikk, funksjonen øker tallet, og `innerHTML` sørger for at det nye tallet vises på nettsiden.
+
+## 1.3 – Lage en Shop | ekstra oppgave
+prøv å lage en knap som når du har nåk så kan du kjøpe en upgrade
