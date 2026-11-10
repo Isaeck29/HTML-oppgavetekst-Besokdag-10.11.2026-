@@ -52,7 +52,21 @@
 <p>used to devide section for <code>css</code> formating styles</p>
 
 ## CSS
+css er en style sheet den lar deg endre utsene av tingene du hvelger
 
+```css
+:root {
+  --main: #000000; /* "--" makes main a varible we give said varible the contetns of the hex code for black*/
+}
+
+h1 {
+  color: var(--main); /*this will change all <h1> to the main color*/
+}
+
+body {
+  background-color: #f46721; /*this will chnage the body of the html to orange*/
+}
+```
 ## JavaScript
 
 ```JavaScript
@@ -86,4 +100,13 @@ example
 <button onclick="document.getElementById('e2').innerHTML = 'Hei';">
 </body>
 <!--This will change the "hallo" text to "Hei" when you press the button-->
+```
+
+## Linking the css and js files
+
+```html
+<head>
+  <link rel="stylesheet href="style.css">
+  <script src="script.js"></script>
+</head>
 ```
